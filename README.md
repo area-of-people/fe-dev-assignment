@@ -43,7 +43,7 @@ Details endpoint:
 
   _Details are fetched from the API by library ID._
 
-- [ ] Include a graph for the downloads per week for a library
+- [ ] Include a graph for the downloads for the last seven days for a library
 
   _You can use any library you want to display the graph. The data for the graph is available in the library details response._
 
