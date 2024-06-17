@@ -16,7 +16,9 @@ This project contains a standard React application setup with Typescript and Tai
 
 ### Use of external libraries
 
-You have the freedom to use any library or tool you want to achieve the goal. The only requirement is that the project should be a React application. Pull in any libraries you prefer to use and see fit.
+You have the freedom to use any library or tool you want to achieve the goal. The only requirement is that the project should be a React application. Pull in any libraries you prefer to use and see fit. 
+
+You are also free to modify any part of the project setup if you feel like it.
 
 ### Data
 
