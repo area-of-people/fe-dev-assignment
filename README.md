@@ -55,3 +55,4 @@ Details endpoint:
 - [ ] Think about loading states / error handling
 - [ ] Graph has hover states to show the day and number of downloads
 - [ ] Transitions/animations
+- [ ] Good component structure

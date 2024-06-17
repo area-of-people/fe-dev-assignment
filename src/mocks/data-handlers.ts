@@ -5,7 +5,7 @@ const data = [
   {
     id: 1,
     name: "React",
-    author: "John Doe",
+    author: "Meta",
     description: "A JavaScript library for building user interfaces",
     total_downloads: 5000000,
     downloads_last_seven_days: [
@@ -19,7 +19,7 @@ const data = [
   {
     id: 2,
     name: "Vue",
-    author: "Jane Smith",
+    author: "Evan You",
     description: "The Progressive JavaScript Framework",
     total_downloads: 3000000,
     downloads_last_seven_days: [
@@ -33,7 +33,7 @@ const data = [
   {
     id: 3,
     name: "Angular",
-    author: "Alice Johnson",
+    author: "Google",
     description: "One framework. Mobile & desktop.",
     total_downloads: 4000000,
     downloads_last_seven_days: [
@@ -47,7 +47,7 @@ const data = [
   {
     id: 4,
     name: "jQuery",
-    author: "Bob Brown",
+    author: "John Resig",
     description: "Write less, do more.",
     total_downloads: 6000000,
     downloads_last_seven_days: [
@@ -61,7 +61,7 @@ const data = [
   {
     id: 5,
     name: "Lodash",
-    author: "Charlie Davis",
+    author: "John-David Dalton",
     description:
       "A modern JavaScript utility library delivering modularity, performance & extras.",
     total_downloads: 4500000,
@@ -76,7 +76,7 @@ const data = [
   {
     id: 6,
     name: "D3",
-    author: "David Green",
+    author: "Mike Bostock",
     description:
       "A JavaScript library for manipulating documents based on data.",
     total_downloads: 2000000,
@@ -91,7 +91,7 @@ const data = [
   {
     id: 7,
     name: "Moment",
-    author: "Eve White",
+    author: "Tim Wood",
     description:
       "Parse, validate, manipulate, and display dates in JavaScript.",
     total_downloads: 2500000,
@@ -106,7 +106,7 @@ const data = [
   {
     id: 8,
     name: "Axios",
-    author: "Frank Black",
+    author: "Matt Zabriskie",
     description: "Promise based HTTP client for the browser and node.js.",
     total_downloads: 3500000,
     downloads_last_seven_days: [
@@ -120,7 +120,7 @@ const data = [
   {
     id: 9,
     name: "Redux",
-    author: "Grace Brown",
+    author: "Dan Abramov",
     description: "Predictable state container for JavaScript apps.",
     total_downloads: 3000000,
     downloads_last_seven_days: [
@@ -134,7 +134,7 @@ const data = [
   {
     id: 10,
     name: "Next.js",
-    author: "Hank Green",
+    author: "Guillermo Rauch",
     description: "The React Framework for Production.",
     total_downloads: 4000000,
     downloads_last_seven_days: [
