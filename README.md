@@ -1,8 +1,8 @@
-# FE assignment for the position of Frontend Developer at Area of People
+# Frontend assignment for the position of Frontend Developer at Area of People
 
 ## Goal
 
-We are building a site for listing popular NPM libraries. The user is a developer who wants to learn more about commonly used libraries and see some details about them.
+We are building a site for listing popular NPM libraries. The end-user would be a developer who wants to learn more about commonly used libraries and see some details about them.
 
 We are most interested in how you structure your code and how you make it a nice user experience.
 
@@ -16,9 +16,9 @@ This project contains a standard React application setup with Typescript and Tai
 
 ### Use of external libraries
 
-You have the liberty to use any library or tool you want to achieve the goal. The only requirement is that the project should be a React application. Pull in any libraries you prefer to use and see fit.
+You have the freedom to use any library or tool you want to achieve the goal. The only requirement is that the project should be a React application. Pull in any libraries you prefer to use and see fit.
 
-### API
+### Data
 
 The API for getting the library data is integrated into the frontend using MockServiceWorker. You don't need to start it manually, it starts when you run the frontend application. As a simple test you can run `fetch('/libraries')` in the browser console to see the response.
 
@@ -39,7 +39,6 @@ Details endpoint:
 
   _Again, feel free to pull in any library you want to use for fetching the data_
 
-- [ ] Implement a search functionality to filter the list of libraries
 - [ ] When clicking an item, display more details about the library
 
   _Details are fetched from the API by library ID._
@@ -47,6 +46,8 @@ Details endpoint:
 - [ ] Include a graph for the downloads per week for a library
 
   _You can use any library you want to display the graph. The data for the graph is available in the library details response._
+
+- [ ] Implement a search functionality to filter the list of libraries
 
 ### Bonus points
 
