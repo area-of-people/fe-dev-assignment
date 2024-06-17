@@ -4,6 +4,8 @@
 
 We are building a site for listing popular NPM libraries. The end-user would be a developer who wants to learn more about commonly used libraries and see some details about them.
 
+We explicitly left the expected end result a bit vague so you can show us your creativity and skills.
+
 We are most interested in how you structure your code and how you make it a nice user experience.
 
 Please spend no more than 2-3 hours on this assigment.
