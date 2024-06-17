@@ -20,9 +20,9 @@ You have the liberty to use any library or tool you want to achieve the goal. Th
 
 ### API
 
-The API for getting the library data is integrated into the frontend using MockServiceWorker. You don't need to start it manually, it starts when you run the frontend application.
+The API for getting the library data is integrated into the frontend using MockServiceWorker. You don't need to start it manually, it starts when you run the frontend application. As a simple test you can run `fetch('/libraries')` in the browser console to see the response.
 
-You can access the Typescript types from `src/api/types.ts` file.
+You can access the Typescript types for these endpoints from `src/api/types.ts` file.
 
 List endpoint:
 
